@@ -6,8 +6,8 @@
 
 > A smart, continuous Speech-to-Text (STT) assistant powered by React and the NVIDIA NIM API. Speak naturally, let the app transcribe it continuously, and then use AI to clean up and respond to your thoughts!
 
-🔗 **[Live Demo](#)** *(Replace with your deployed link)*  
-💻 **[GitHub Repository](#)** *(Replace with your GitHub repo URL)*  
+🔗 **[Live Demo](https://speech-to-text-1pwu.vercel.app/)**  
+💻 **[GitHub Repository](https://github.com/shudhanshu002/speech-to-text)**  
 
 ---
 
@@ -35,7 +35,7 @@ Want to run this locally? Here's how to get it up and running in minutes.
 
 ### 1. Clone & Install
 ```bash
-git clone <YOUR_GITHUB_REPO_URL_HERE>
+git clone https://github.com/shudhanshu002/speech-to-text.git
 cd stt-nvidia
 npm install
 ```
