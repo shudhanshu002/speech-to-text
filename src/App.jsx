@@ -139,7 +139,7 @@ function App() {
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h2 style={{ color: '#76b900', marginTop: 0 }}>NVIDIA Voice Assistant</h2>
+        <h2 style={{ color: '#76b900', marginTop: 0 }}> Voice Assistant</h2>
         <p style={styles.shortcutText}>Press <strong>Btn</strong> to toggle microphone</p>
 
         <div style={styles.status}>
